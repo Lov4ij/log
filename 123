@@ -1,0 +1,216 @@
+OBS 23.0.0 (64-bit, windows) log file uploaded at 2019-02-27, 11:37:03
+
+10:55:01.744: CPU Name: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz
+10:55:01.744: CPU Speed: 3998MHz
+10:55:01.744: Physical Cores: 4, Logical Cores: 8
+10:55:01.744: Physical Memory: 16325MB Total, 11447MB Free
+10:55:01.744: Windows Version: 10.0 Build 17763 (revision: 316; 64-bit)
+10:55:01.744: Running as administrator: false
+10:55:01.746: Aero is Enabled (Aero is always on for windows 8 and above)
+10:55:01.746: Windows 10 Gaming Features:
+10:55:01.746: 	Game Bar: Off
+10:55:01.746: 	Game DVR: Off
+10:55:01.746: 	Game DVR Background Recording: Off
+10:55:01.747: Sec. Software Status:
+10:55:01.748: 
+10:55:01.749: 
+10:55:01.749: 
+10:55:01.749: Current Date/Time: 2019-02-27, 10:55:01
+10:55:01.749: Browser Hardware Acceleration: true
+10:55:01.749: Portable mode: false
+10:55:02.307: OBS 23.0.0 (64-bit, windows)
+10:55:02.307: ---------------------------------
+10:55:02.307: ---------------------------------
+10:55:02.307: audio settings reset:
+10:55:02.307: 	samples per sec: 48000
+10:55:02.307: 	speakers:        2
+10:55:02.320: ---------------------------------
+10:55:02.320: Initializing D3D11...
+10:55:02.320: Available Video Adapters: 
+10:55:02.322: 	Adapter 1: NVIDIA GeForce GTX 1080 Ti
+10:55:02.322: 	  Dedicated VRAM: 3077570560
+10:55:02.322: 	  Shared VRAM:    4264439808
+10:55:02.322: 	  output 1: pos={0, 0}, size={3840, 2160}, attached=true
+10:55:02.322: 	  output 2: pos={3840, 1068}, size={1920, 1080}, attached=true
+10:55:02.325: Loading up D3D11 on adapter NVIDIA GeForce GTX 1080 Ti (0)
+10:55:02.386: D3D11 loaded successfully, feature level used: 45056
+10:55:03.408: ---------------------------------
+10:55:03.408: video settings reset:
+10:55:03.408: 	base resolution:   3840x2160
+10:55:03.408: 	output resolution: 1920x1080
+10:55:03.408: 	downscale filter:  Bicubic
+10:55:03.408: 	fps:               30/1
+10:55:03.408: 	format:            NV12
+10:55:03.408: 	YUV mode:          601/Partial
+10:55:03.408: NV12 texture support enabled
+10:55:03.412: Audio monitoring device:
+10:55:03.412: 	name: По умолчанию
+10:55:03.412: 	id: default
+10:55:03.413: ---------------------------------
+10:55:03.522: [CoreAudio encoder]: Adding CoreAudio AAC encoder
+10:55:03.553: Failed to load 'en-US' text for module: 'decklink-ouput-ui.dll'
+10:55:03.662: [AMF] AMF Test failed due to one or more errors.
+10:55:03.662: Failed to initialize module 'enc-amf.dll'
+10:55:03.854: Module '../../obs-plugins/64bit/libEGL.dll' not loaded
+10:55:03.922: [obs-browser]: Version 2.3.0
+10:55:03.992: NVENC supported
+10:55:04.323: VLC found, VLC video source enabled
+10:55:04.380: No blackmagic support
+10:55:04.455: ---------------------------------
+10:55:04.455:   Loaded Modules:
+10:55:04.455:     win-wasapi.dll
+10:55:04.455:     win-mf.dll
+10:55:04.455:     win-ivcam.dll
+10:55:04.455:     win-dshow.dll
+10:55:04.455:     win-decklink.dll
+10:55:04.455:     win-capture.dll
+10:55:04.455:     vlc-video.dll
+10:55:04.455:     text-freetype2.dll
+10:55:04.455:     rtmp-services.dll
+10:55:04.455:     obs-x264.dll
+10:55:04.455:     obs-vst.dll
+10:55:04.455:     obs-transitions.dll
+10:55:04.455:     obs-text.dll
+10:55:04.455:     obs-qsv11.dll
+10:55:04.455:     obs-outputs.dll
+10:55:04.455:     obs-filters.dll
+10:55:04.455:     obs-ffmpeg.dll
+10:55:04.455:     obs-browser.dll
+10:55:04.455:     image-source.dll
+10:55:04.455:     frontend-tools.dll
+10:55:04.455:     enc-amf.dll
+10:55:04.455:     decklink-ouput-ui.dll
+10:55:04.455:     coreaudio-encoder.dll
+10:55:04.455: ---------------------------------
+10:55:04.455: ==== Startup complete ===============================================
+10:55:04.482: All scene data cleared
+10:55:04.482: ------------------------------------------------
+10:55:04.575: WASAPI: Device 'Микрофон (Yeti Stereo Microphone)' initialized
+10:55:04.595: [Media Source 'Музон из лифта']: settings:
+10:55:04.595: 	input:                   D:/Stream/Elevator - Music.mp3
+10:55:04.595: 	input_format:            (null)
+10:55:04.595: 	speed:                   100
+10:55:04.595: 	is_looping:              yes
+10:55:04.595: 	is_hw_decoding:          yes
+10:55:04.595: 	is_clear_on_media_end:   yes
+10:55:04.595: 	restart_on_activate:     yes
+10:55:04.595: 	close_when_inactive:     no
+10:55:04.595: Failed to open file 'C:/Users/Varfo/Pictures/PogChamp_Emote.png': No such file or directory
+10:55:04.595: gs_image_file_init: Failed to load file 'C:/Users/Varfo/Pictures/PogChamp_Emote.png'
+10:55:04.595: [image_source: 'Изображение'] failed to load texture 'C:/Users/Varfo/Pictures/PogChamp_Emote.png'
+10:55:04.628: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+10:55:04.628: 
+10:55:05.102: [window-capture: 'Браузер'] update settings:
+10:55:05.102: 	executable: NieRAutomata.exe
+10:55:05.118: Вебка: data.GetDevice failed
+10:55:05.118: Вебка: Video configuration failed
+10:55:05.184: WASAPI: Device 'Динамики (Sound Blaster Z)' initialized
+10:55:05.184: [window-capture: 'Браузер афк'] update settings:
+10:55:05.184: 	executable: chrome.exe
+10:55:05.748: Switched to scene 'Основная сцена'
+10:55:05.748: ------------------------------------------------
+10:55:05.748: Loaded scenes:
+10:55:05.748: - scene 'Основная сцена':
+10:55:05.748:     - source: 'Звук' (wasapi_output_capture)
+10:55:05.748:     - source: 'Фон' (image_source)
+10:55:05.748:     - source: 'Браузер' (window_capture)
+10:55:05.748:     - source: 'Захват игры' (game_capture)
+10:55:05.748:     - source: 'Алерты' (group)
+10:55:05.748:     - source: 'WoW' (group)
+10:55:05.748:     - source: 'Вебка' (dshow_input)
+10:55:05.748:         - filter: 'Маска изображения/Смешивание' (mask_filter)
+10:55:05.748:     - source: 'Заказ музыки' (text_gdiplus)
+10:55:05.748:     - source: 'Захват экрана' (monitor_capture)
+10:55:05.748:     - source: 'Тупо текст' (text_gdiplus)
+10:55:05.748: - scene 'Афк':
+10:55:05.748:     - source: 'Фон АФК' (image_source)
+10:55:05.748:     - source: 'Изображение' (image_source)
+10:55:05.748:     - source: 'Музон из лифта' (ffmpeg_source)
+10:55:05.748:     - source: 'Скоро вернусь' (text_gdiplus)
+10:55:05.748:     - source: 'Браузер афк' (window_capture)
+10:55:05.748:     - source: 'Ивент лист' (browser_source)
+10:55:05.748:     - source: 'DonationAlerts' (browser_source)
+10:55:05.748:     - source: 'Streamlabs' (browser_source)
+10:55:05.748: ------------------------------------------------
+10:55:52.348: ---------------------------------
+10:55:52.348: [NVENC encoder: 'streaming_h264'] settings:
+10:55:52.348: 	rate_control: CBR
+10:55:52.348: 	bitrate:      2500
+10:55:52.348: 	cqp:          0
+10:55:52.348: 	keyint:       60
+10:55:52.348: 	preset:       hq
+10:55:52.348: 	profile:      high
+10:55:52.348: 	width:        1280
+10:55:52.348: 	height:       720
+10:55:52.348: 	2-pass:       false
+10:55:52.348: 	b-frames:     2
+10:55:52.348: 	GPU:          0
+10:55:52.348: 
+10:55:52.724: [CoreAudio AAC: 'Track1']: settings:
+10:55:52.724: 	mode:          AAC
+10:55:52.724: 	bitrate:       160
+10:55:52.724: 	sample rate:   48000
+10:55:52.724: 	cbr:           on
+10:55:52.724: 	output buffer: 1536
+10:55:52.725: [rtmp stream: 'adv_stream'] Connecting to RTMP URL rtmp://live-ams.twitch.tv/app...
+10:55:52.772: [rtmp stream: 'adv_stream'] Interface: Intel(R) Ethernet Connection (2) I218-V (ethernet, 1000 mbps)
+10:55:54.251: [rtmp stream: 'adv_stream'] Connection to rtmp://live-ams.twitch.tv/app successful
+10:55:54.251: [rtmp stream: 'adv_stream'] New socket loop enabled by user
+10:55:54.255: ==== Streaming Start ===============================================
+10:57:08.518: [game-capture: 'Захват игры'] Activate hotkey pressed
+10:57:08.613: [game-capture: 'Захват игры'] attempting to hook process: Darkest.exe
+10:57:08.682: [game-capture: 'Захват игры'] using helper (compatibility hook)
+10:57:08.717: [game-capture: 'Захват игры'] hook not loaded yet, retrying..
+10:57:09.672: [game-capture: 'Захват игры'] attempting to hook process: Darkest.exe
+10:57:10.031: [game-capture: 'Захват игры'] gl shared texture capture successful
+10:57:10.046: [game-capture: 'Захват игры'] shared texture capture successful
+10:59:03.479: [window-capture: 'Браузер'] update settings:
+10:59:03.479: 	executable: Taskmgr.exe
+10:59:21.913: [game-capture: 'Захват игры'] capture stopped
+11:01:08.550: [rtmp stream: 'adv_stream'] User stopped the stream
+11:01:08.550: socket_thread_windows: Normal exit
+11:01:08.550: Output 'adv_stream': stopping
+11:01:08.550: Output 'adv_stream': Total frames output: 9293
+11:01:08.550: Output 'adv_stream': Total drawn frames: 5906 (9475 attempted)
+11:01:08.550: Output 'adv_stream': Number of lagged frames due to rendering lag/stalls: 3569 (37.7%)
+11:01:08.551: Video stopped, number of skipped frames due to encoding lag: 16/9427 (0.2%)
+11:01:08.553: ==== Streaming Stop ================================================
+11:09:43.259: adding 21 milliseconds of audio buffering, total audio buffering is now 64 milliseconds (source: Mic/Aux)
+11:09:43.259: 
+11:11:13.556: ---------------------------------
+11:11:13.556: [NVENC encoder: 'streaming_h264'] settings:
+11:11:13.556: 	rate_control: CBR
+11:11:13.556: 	bitrate:      2500
+11:11:13.556: 	cqp:          0
+11:11:13.556: 	keyint:       60
+11:11:13.556: 	preset:       hq
+11:11:13.556: 	profile:      high
+11:11:13.556: 	width:        1280
+11:11:13.556: 	height:       720
+11:11:13.556: 	2-pass:       false
+11:11:13.556: 	b-frames:     2
+11:11:13.556: 	GPU:          0
+11:11:13.556: 
+11:11:13.708: [CoreAudio AAC: 'Track1']: settings:
+11:11:13.708: 	mode:          AAC
+11:11:13.708: 	bitrate:       160
+11:11:13.708: 	sample rate:   48000
+11:11:13.708: 	cbr:           on
+11:11:13.708: 	output buffer: 1536
+11:11:13.708: [rtmp stream: 'adv_stream'] Connecting to RTMP URL rtmp://live-ams.twitch.tv/app...
+11:11:13.756: [rtmp stream: 'adv_stream'] Interface: Intel(R) Ethernet Connection (2) I218-V (ethernet, 1000 mbps)
+11:11:15.190: [rtmp stream: 'adv_stream'] Connection to rtmp://live-ams.twitch.tv/app successful
+11:11:15.190: [rtmp stream: 'adv_stream'] New socket loop enabled by user
+11:11:15.194: ==== Streaming Start ===============================================
+11:21:10.917: adding 21 milliseconds of audio buffering, total audio buffering is now 85 milliseconds (source: Звук)
+11:21:10.917: 
+11:26:00.858: adding 21 milliseconds of audio buffering, total audio buffering is now 106 milliseconds (source: Звук)
+11:26:00.858: 
+11:36:44.000: [rtmp stream: 'adv_stream'] User stopped the stream
+11:36:44.000: socket_thread_windows: Normal exit
+11:36:44.000: Output 'adv_stream': stopping
+11:36:44.000: Output 'adv_stream': Total frames output: 45241
+11:36:44.000: Output 'adv_stream': Total drawn frames: 6800 (45909 attempted)
+11:36:44.000: Output 'adv_stream': Number of lagged frames due to rendering lag/stalls: 39109 (85.2%)
+11:36:44.002: Video stopped, number of skipped frames due to encoding lag: 1065/45862 (2.3%)
+11:36:44.012: ==== Streaming Stop ================================================
